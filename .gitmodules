@@ -1,0 +1,3 @@
+[submodule "coffeeShop"]
+	path = coffeeShop
+	url = https://github.com/Mujtabaa07/coffeeShop.git
